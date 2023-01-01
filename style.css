@@ -72,9 +72,3 @@ button:hover {
 	color: white;
 	background: steelblue;
 }
-
-#maker{
-	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-	color: gray;
-	float:inline-end;
-}
